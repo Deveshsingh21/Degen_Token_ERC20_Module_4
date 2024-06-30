@@ -11,7 +11,7 @@ DegenToken (DGN) is a custom ERC20 token using Solidity, built on the Ethereum b
 ## Video Explanation 
 https://www.loom.com/share/98f9ede6d0994b4abe3a09d14827da28
 ## How to run this program
- 1. Clone this repository https://github.com/Deveshsingh21/Degen_Token_ERC20_Module_4/new/main?filename=README.md edit thislater  in VsCode or any other compatible Environment , You can also use ```remix.ethereum``` to deploy this contract.
+ 1. Clone this repository https://github.com/Deveshsingh21/Degen_Token_ERC20_Module_4   in VsCode or any other compatible Environment , You can also use ```remix.ethereum``` to deploy this contract.
  2. When Working on Vs Code you need to run certain commands on terminal ```npm install```,```npx hardhat compile```, ```npx hardhat run deploy.js --network fuji``` to deploy the Contract on C-Chain Network.
  3. For Deploying on Avalanche you need some AVAX , you can get it on ```AvalancheTestnetFaucet```.
  4. Connect to the Fuji testnet on testnet.snowtrace.io.
