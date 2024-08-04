@@ -1,12 +1,14 @@
 # Degen ERC20 Token 
 ## Description
-DegenToken (DGN) is a custom ERC20 token using Solidity, built on the Ethereum blockchain and deployable on other networks like Avalanche and its functionalities can be traced on ```testnet snowtrace.io```. This token includes features such as minting, burning, penalties for certain actions, and a redeem option.
+DegenToken (DGN) is a custom ERC20 token using Solidity, built on the Ethereum blockchain and deployable on other networks like Avalanche and its functionalities can be traced on ```testnet snowtrace.io```. This token includes features such as minting, burning, penalties for certain actions, and a redeem option to redeem any items of your choice .
 ## Features
 1. ERC20 Standard: Uses certain  ERC20 libraries , for using some built in functions.
-2. Penalty System: Apply penalties to users by reducing their token balance. Can be applied if player shows abusive behaviour during gameplay or leaves game in between.
+2. ```Penalty System```: Apply penalties to users by reducing their token balance. Can be applied if player shows abusive behaviour during gameplay or leaves game in between.
 3. Minting new tokens: The platform should be able to create new tokens and distribute them to players as rewards. Only the owner can mint tokens.
 4. Burnable: Tokens can be burned (destroyed), reducing the total supply.
 5. Ownable: Ownership management to restrict certain functions to the contract owner.
+6. ```Redeem Valuables``` : Choose to use your tokens to buy from predefined list of equipments , character and game map by using you redeem tokens.
+7. ``` Get Redeemed items List``` : You can always keep a check on the items you have purchased by accessing a list of items by using this function.
 
 ## Video Explanation 
 https://www.loom.com/share/98f9ede6d0994b4abe3a09d14827da28
