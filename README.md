@@ -11,7 +11,7 @@ DegenToken (DGN) is a custom ERC20 token using Solidity, built on the Ethereum b
 7. ``` Get Redeemed items List``` : You can always keep a check on the items you have purchased by accessing a list of items by using this function.
 
 ## Video Explanation 
-https://www.loom.com/share/98f9ede6d0994b4abe3a09d14827da28
+https://www.loom.com/share/019cb2f3ef6b4989bb1c90e07713736d
 ## How to run this program
  1. Clone this repository https://github.com/Deveshsingh21/Degen_Token_ERC20_Module_4   in VsCode or any other compatible Environment , You can also use ```remix.ethereum``` to deploy this contract.
  2. When Working on Vs Code you need to run certain commands on terminal ```npm install```,```npx hardhat compile```, ```npx hardhat run deploy.js --network fuji``` to deploy the Contract on C-Chain Network.
